@@ -1,0 +1,15 @@
+#profile-img {
+  height: 200px;
+
+
+}
+#profile-img img {
+  height: 200px;
+}
+
+.profile {
+
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}

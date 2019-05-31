@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+
+  background-color: #eee;
+  font-family: Work Sans;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+button {
+  background-color: #505355;
+  color: #fff;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/* button:hover {
+
+  background-color: #5BECD8;
+  
+} */
+
+.contact-info {
+  margin-top: 5px;
+  color: #a1a1a1;
+}
